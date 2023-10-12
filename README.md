@@ -1,1 +1,1 @@
-# ST
+# Strategical Thinking 
